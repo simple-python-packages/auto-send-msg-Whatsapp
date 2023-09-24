@@ -1,7 +1,7 @@
 # auto-send-msg-Whatsapp
 ## Bu repo orqali siz Whatsapp da biror xabarni avtomatik jo'nata olasiz
 # Oldin Googleda [Whatsapp](web.whatsapp.com) da ro'yxatdan o'tgan bo'lishingiz kerak
-
+### [Ko'proq malumot bu yerda](https://pypi.org/project/pywhatkit/)
 - Loyihani ishga tushirish:
     - Loyihani yuklab olamiz:
       ```
